@@ -6,4 +6,4 @@ npm run dev
 
 make changes ---->>>
 push code ---->>>
-create pull request ---->>>
+create pull request

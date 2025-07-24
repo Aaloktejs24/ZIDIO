@@ -1,9 +1,9 @@
-fork it
-clone it
-cd FrontEnd
-npm i
+fork it ---->>>
+clone it ---->>>
+cd FrontEnd ---->>>
+npm i ---->>>
 npm run dev
 
-make changes
-push code
-create pull request
+make changes ---->>>
+push code ---->>>
+create pull request ---->>>
